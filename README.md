@@ -1,1 +1,1 @@
-# My_Sql_Project
+This is a My Sql project
